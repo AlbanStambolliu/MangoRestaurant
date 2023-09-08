@@ -4,4 +4,5 @@
 *.dll
 *.jar
 *.log
-
+DesignTimeBuild/
+v17/
